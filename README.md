@@ -16,7 +16,7 @@ Ever since I was child, I had an interest in computers and technologies in gener
 
 - 💻 Technologies: Java, JavaScript, React.js, TypeScript, Python, Git, GitHub and SQL. 
 - 🧩 Soft Skills: Teamwork, creativity, problem-solving and empathy.
-- 🗣 Spoken Languages: Portuguese (Native), English(Advanced) and Spanish (Basic/Intermidate).
+- 🗣 Spoken Languages: Portuguese (Native), English (Advanced) and Spanish (Basic/Intermidate).
 
 ## Current Goals 🧗‍♂️
 
