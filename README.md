@@ -20,7 +20,6 @@ Ever since I was child, I had an interest in computers and technologies in gener
 
 ## Current Goals 🧗‍♂️
 
-- Become a **full-stack** developer.
 - Make more projects for learning and fun.
 - Overall become a better developer with good programming practices.
 - Meet new people in the area.
