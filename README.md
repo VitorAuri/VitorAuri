@@ -21,7 +21,7 @@ Ever since I was child, I had an interest in computers and technologies in gener
 ## Current Goals 🧗‍♂️
 
 - Make more projects for learning and fun.
-- Overall become a better developer with good programming practices.
+- Personal growth.
 - Meet new people in the area.
 
 ## Current Public Projects
