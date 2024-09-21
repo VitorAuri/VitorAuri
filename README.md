@@ -1,8 +1,4 @@
-# Vitor Aurilândio - Introduction 🧍
-
-My name is **Vitor Aurilândio**, and as I introduce myself i'd like to share a little about me and some of my history.
-
-Ever since I was child, I had an interest in computers and technologies in general, but only after I turned 18 and started my journey in **Computer Science** in college that I had finally realized i've found one of my most precious passion and hobby.
+# Hello, my name is Vitor 👋
 
 ## Contact Information 🙇
 
@@ -35,7 +31,5 @@ Ever since I was child, I had an interest in computers and technologies in gener
 ## GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitorauri&show_icons=true&count_private=true&bg_color=1E1E1E&title_color=FFFF&text_color=FFFFFF&icon_color=FFFF)
-
-
 
 - See more information about me and other projects at my [web portfolio](https://vitor-dev.vercel.app/) here!
