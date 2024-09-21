@@ -1,4 +1,4 @@
-## Hello, my name is Vitor, and here you can learn more about me! 👋
+<h2 align="center">Hello, my name is Vitor, and here you can learn more about me! 👋😃</h2>
 
 ## Skills 🧰
 
