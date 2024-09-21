@@ -1,5 +1,5 @@
 ## Hello, my name is Vitor 👋
-<p align="center">Contact Information 📞</p>
+<h3 align="center">Contact Information 📞</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/vitor-aurilandio-54678926a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
