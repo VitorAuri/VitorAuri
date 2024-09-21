@@ -1,16 +1,4 @@
-## Hello, my name is Vitor 👋
-<h3 align="center">Contact Information 📞</h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/vitor-aurilandio-54678926a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/vitorauri_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:contato@vitoraurilandio@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</div>
+## Hello, my name is Vitor, and here you can learn more about me! 👋
 
 ## Skills 🧰
 
@@ -38,3 +26,16 @@
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitorauri&show_icons=true&count_private=true&bg_color=1E1E1E&title_color=FFFF&text_color=FFFFFF&icon_color=FFFF)
 
 - See more information about me and other projects at my [web portfolio](https://vitor-dev.vercel.app/) here!
+
+<h3 align="center">Contact Information 📞</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/vitor-aurilandio-54678926a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/vitorauri_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:contato@vitoraurilandio@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
