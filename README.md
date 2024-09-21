@@ -1,16 +1,19 @@
-# Hello, my name is Vitor 👋
+## Hello, my name is Vitor 👋
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-aurilandio-54678926a/)
- <br> <br>
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitorauri_)
- <br> <br>
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@vitoraurilandio@gmail.com)
+
 
 ## Skills 🧰
 
-- 💻 Technologies: Java, JavaScript, React.js, TypeScript, Python, Git, GitHub and SQL. 
-- 🧩 Soft Skills: Teamwork, creativity, problem-solving and empathy.
-- 🗣 Spoken Languages: Portuguese (Native), English (Advanced) and Spanish (Basic).
+- **💻 Technologies:** Java, JavaScript, React.js, TypeScript, Python, Git, GitHub and SQL. 
+- **🛠 Frameworks and Libraries:** Spring Boot and React.js
+- **🧩 Soft Skills:** Teamwork, creativity, proactivity and time management.
+- **🗣 Spoken Languages:** Portuguese (Native), English (Advanced) and Spanish (Basic).
 
 ## Current Goals 🧗‍♂️
 
